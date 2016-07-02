@@ -18,14 +18,14 @@ In this theme you can add variables to your site config file. The following is t
 	baseurl = "http://lernisto.com/"
 	languageCode = "en"
 	title = "lernisto.com"
-	author = "lernisto"
+	author = "Lernisto"
 	copyright = "Me. All rights reserved."
 
 	[params]
 	  logo      = "/images/logo.jpg"
 	  twitter   = "https://twitter.com/lernisto"
 	  github    = "https://github.com/lernisto/"
-	  email     = "lernisto16@gmail.com"
+	  email     = "invalid@example.com"
 
 `copyright` may contain safe HTML, such as a link to a license.
 
@@ -41,4 +41,6 @@ MIT License
 
 ## Author
 
-[Terrel Shumway](https://github.com/lernisto)
+Originally by [OCHIISHI Koichiro](https://github.com/rakuishi)
+
+Modified by [Terrel Shumway](https://github.com/lernisto)
