@@ -1,11 +1,11 @@
-name = "Hugo Zen"
+name = "Lernisto Zen"
 license = "MIT"
-licenselink = "https://github.com/rakuishi/hugo-zen/blob/master/LICENSE.md"
-description = "Hugo Zen is a minimal hugo theme."
+licenselink = "https://github.com/lernisto/lernisto-zen/blob/master/LICENSE.md"
+description = "Lernisto Zen is a minimal hugo theme."
 tags = ["blog"]
 features = ["blog", "themes"]
 min_version = 0.13
 
 [author]
-    name = "OCHIISHI Koichiro"
-    homepage = "http://rakuishi.com/"
+    name = "Terrel Shumway"
+    homepage = "http://terrel.shumway.us/"

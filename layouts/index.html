@@ -1,5 +1,4 @@
 {{ partial "header.html" . }}
-
 	<main role="main">
 {{ range (where .Data.Pages ".Params.hidefromhome" "!=" "true") }}
 		<article itemscope itemtype="http://schema.org/Blog">
@@ -8,5 +7,4 @@
 		</article>
 {{ end }}
 	</main>
-
 {{ partial "footer.html" . }}

@@ -1,33 +1,31 @@
-# Hugo Zen
+# Lernisto Zen
 
-Hugo Zen is a minimal hugo theme with [Skeleton](https://github.com/dhg/Skeleton/) and has ~100 lines of custom CSS.
+Lernisto Zen is a minimal Hugo theme with [Skeleton](https://github.com/dhg/Skeleton/) and has ~100 lines of custom CSS.
 
 ![screenshot](/images/screenshot.png)
 
 ## Installation & Usage
 
-Clone this repository to your hugo theme directory.
+Clone this repository to your Hugo theme directory.
 
-	$ git clone https://github.com/rakuishi/hugo-zen.git themes/hugo-zen
-	$ hugo server --theme=hugo-zen --buildDrafts --watch
+	$ git clone https://github.com/lernisto/lernisto-zen.git themes/lernisto-zen
+	$ hugo server --theme=lernisto-zen --buildDrafts --watch
 
 ## Configuration
 
 In this theme you can add variables to your site config file. The following is the example config:
 
-	baseurl = "http://rakuishi.com/"
-	languageCode = "ja"
-	title = "rakuishi.com"
-	author = "rakuishi"
-	copyright = "rakuishi All rights reserved."
+	baseurl = "http://lernisto.com/"
+	languageCode = "en"
+	title = "lernisto.com"
+	author = "lernisto"
+	copyright = "Me. All rights reserved."
 
 	[params]
 	  logo      = "/images/logo.jpg"
-	  twitter   = "https://twitter.com/rakuishi07"
-	  facebook  = "https://www.facebook.com/ochiishikoichiro"
-	  github    = "https://github.com/rakuishi/"
-	  email     = "rakuishi@gmail.com"
-	  analytics = "UA-12345678-9"
+	  twitter   = "https://twitter.com/lernisto"
+	  github    = "https://github.com/lernisto/"
+	  email     = "lernisto16@gmail.com"
 
 `copyright` may contain safe HTML, such as a link to a license.
 
@@ -43,4 +41,4 @@ MIT License
 
 ## Author
 
-[OCHIISHI Koichiro](https://github.com/rakuishi)
+[Terrel Shumway](https://github.com/lernisto)

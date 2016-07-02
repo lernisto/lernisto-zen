@@ -1,7 +1,7 @@
-+++
-date = "now()"
-slug = ""
-tags = ["", ""]
-title = ""
+---
+date:  "now()"
+slug: ""
+tags: ["", ""]
+title: ""
 
-+++
+---
